@@ -1,0 +1,17 @@
+[
+    {
+        "username": "akshay",
+        "password": "akku3",
+        "balance": 50
+    },
+    {
+        "username": "mayank",
+        "password": "mayank123",
+        "balance": 6000
+    },
+    {
+        "username": "kuchbhi",
+        "password": "asd",
+        "balance": 100
+    }
+]
