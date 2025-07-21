@@ -1,6 +1,6 @@
-# Python dice game in console.
-# simply using json file as database
-# this is just a practice project in my way to learning python ML.
+# Simple python dice game 
+# using JSON file as DB
+# just a practice project in my way to learn python.
 
 
 # Modules 
